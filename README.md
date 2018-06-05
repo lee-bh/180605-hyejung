@@ -1,1 +1,1 @@
-# 180605-hyejung
+# clip_coding_first
